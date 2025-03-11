@@ -1,0 +1,15 @@
+D:\C# Basic\Session 04\Session04\Session04\bin\Debug\net8.0\Session04.exe
+D:\C# Basic\Session 04\Session04\Session04\bin\Debug\net8.0\Session04.deps.json
+D:\C# Basic\Session 04\Session04\Session04\bin\Debug\net8.0\Session04.runtimeconfig.json
+D:\C# Basic\Session 04\Session04\Session04\bin\Debug\net8.0\Session04.dll
+D:\C# Basic\Session 04\Session04\Session04\bin\Debug\net8.0\Session04.pdb
+D:\C# Basic\Session 04\Session04\Session04\obj\Debug\net8.0\Session04.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Basic\Session 04\Session04\Session04\obj\Debug\net8.0\Session04.AssemblyInfoInputs.cache
+D:\C# Basic\Session 04\Session04\Session04\obj\Debug\net8.0\Session04.AssemblyInfo.cs
+D:\C# Basic\Session 04\Session04\Session04\obj\Debug\net8.0\Session04.csproj.CoreCompileInputs.cache
+D:\C# Basic\Session 04\Session04\Session04\obj\Debug\net8.0\Session04.dll
+D:\C# Basic\Session 04\Session04\Session04\obj\Debug\net8.0\refint\Session04.dll
+D:\C# Basic\Session 04\Session04\Session04\obj\Debug\net8.0\Session04.pdb
+D:\C# Basic\Session 04\Session04\Session04\obj\Debug\net8.0\Session04.genruntimeconfig.cache
+D:\C# Basic\Session 04\Session04\Session04\obj\Debug\net8.0\ref\Session04.dll
+D:\C# Basic\Session 04\Session04\Session04\obj\Debug\net8.0\Session04.sourcelink.json
